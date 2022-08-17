@@ -1,0 +1,23 @@
+.__card{
+    /* width: max-content; */
+    /* margin: 0.9rem 0; */
+    background: var(--color-bg-variant);
+    border: 1px solid transparent;
+    border-radius: 1rem; 
+    padding: 1.5rem;
+    text-align: center;
+    transition: var(--transition);
+ }
+ .__card:hover{
+    background: transparent;
+    border: var(--color-primary-variant);
+    cursor: pointer;
+ }
+ .__card a {
+   background: transparent;
+   margin-top: 0.5rem;
+   display: inline-block;
+   font-size: 0.7rem;
+}
+ 
+ 
