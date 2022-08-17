@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7be2390.css",
+    "main.js": "/static/js/main.dbc9b8e1.js",
+    "static/media/Screenshotport.png": "/static/media/Screenshotport.1a102d48dd1803d23f82.png",
+    "static/media/Screenshoradio.png": "/static/media/Screenshoradio.4e81e8fc7c6b0ef9037a.png",
+    "static/media/omoebi.jpeg": "/static/media/omoebi.4d59b1213c62e0c5aced.jpeg",
+    "static/media/Screenshotartscard.png": "/static/media/Screenshotartscard.0e4a8cade5ff9e78516c.png",
+    "static/media/Screenshotdeliv.png": "/static/media/Screenshotdeliv.97990f73d06b41d31758.png",
+    "static/media/whats.jpeg": "/static/media/whats.7edcd9116763b0789c09.jpeg",
+    "static/media/Screenshotemg.png": "/static/media/Screenshotemg.8ceec2d6bce1977d7f00.png",
+    "static/media/pointeradam.jpeg": "/static/media/pointeradam.0116d9046b1bdd7c9004.jpeg",
+    "static/media/AhmedResume.pdf": "/static/media/AhmedResume.422424e4a07ddb2d491f.pdf",
+    "static/media/Screenshotchat.png": "/static/media/Screenshotchat.f18f09e7675b5ca2fd1f.png",
+    "index.html": "/index.html",
+    "main.b7be2390.css.map": "/static/css/main.b7be2390.css.map",
+    "main.dbc9b8e1.js.map": "/static/js/main.dbc9b8e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7be2390.css",
+    "static/js/main.dbc9b8e1.js"
+  ]
+}
