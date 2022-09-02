@@ -65,6 +65,11 @@ export const expFrontEndData = [
     },
     {
         icon: <BsPatchCheckFill/>,
+        progLang: "TypeScript",
+        experience: "Advanced",
+    },
+    {
+        icon: <BsPatchCheckFill/>,
         progLang: "Responsiveness",
         experience: "Advanced",
     },
@@ -225,7 +230,7 @@ export const testimonialData = [
         id: 1,
         avatar: AVT1,
         name: 'Shabi Moshood',
-        text: "An experienced React JS Frontend Developer who as a friend and hard worker, we worked on a project together and I can ascertain that he is a team player. "
+        text: "An experienced React JS Frontend Developer who is a friend and hard worker, we worked on a project together and I can ascertain that he is a team player. "
     },
 
     {
@@ -238,15 +243,15 @@ export const testimonialData = [
     // {
     //     id: 3,
     //     avatar: AVT3,
-    //     name: 'Steve Lubem',
-    //     text: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga beatae molestias temporibus quos ducimus itaque voluptatum voluptas quo  necessitatibus nihil ab nulla ipsa doloribus commodi earum, corporis impedit illum velit."
+    //     name: 'Tomi Adegoke',
+    //     text: " A colleague that brings technical know how and understanding of the technology world to our company. An outstanding individual who has valuable skills in Programming."
     // },
 
     // {
     //     id: 4,
     //     avatar: AVT4,
-    //     name: 'Moremi James',
-    //     text: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga beatae molestias temporibus quos ducimus itaque voluptatum voluptas quo  necessitatibus nihil ab nulla ipsa doloribus commodi earum, corporis impedit illum velit."
+    //     name: 'Jide Taiwo',
+    //     text: " I have personally worked with Ahmed on some projects and he has shown how easy it is to work with him. A Frontend developer with good communication and technical skiils."
     // },
 ]
 

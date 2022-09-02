@@ -1,11 +1,11 @@
 import React from 'react'
 import './experience.css'
-import { BsPatchCheckFill } from 'react-icons/bs'
+// import { BsPatchCheckFill } from 'react-icons/bs'
 import { expFrontEndData, expBackEndData } from '../../data'
 export default function experience() {
   return (
-    <section id='experience'>
-      <h5>GENERAL SKILLS</h5>
+    <section className='experiences' id='experience'>
+      <h3>GENERAL SKILLS</h3>
       <h2>My Experiences</h2>
 
       <div className="container experience__container">

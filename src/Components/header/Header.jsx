@@ -9,9 +9,9 @@ export default function Header() {
   return (<>
     <header className='header'>
       <div className="container header__container">
-        <h5>Hello I'm</h5>
+        <h2>Hello I'm</h2>
         <h1>Ahmed Abdullahi</h1>
-        <h5 className='text-light'> FrontEnd Developer</h5>
+        <h2 className='text-light'> FrontEnd Developer</h2>
         <Button>
         <a href={CV} download className='btn'> Download CV </a>
         <a href='#contact' className='btn btn-primary'> Let's Talk </a>

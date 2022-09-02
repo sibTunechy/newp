@@ -1,6 +1,6 @@
 footer{
     padding: 3rem 0;
-    background: var(--color-primary);
+    background: var(--color-bg-variant);
     text-align: center;
     font-size: 0.9rem;
     margin-top: 7rem;
@@ -50,7 +50,7 @@ footer{
   
   .footer__social a:hover {
     background:transparent;
-    color: var(--color-bg);
+    color: var(--color-black);
     border: var(--color-bg);
   }
   

@@ -11,11 +11,22 @@
     height: fit-content;
     transition: var(--transition);
   }
+
+  .serviceshgroup h2 {
+    color: var(--color-black);
+  }
+
+  .serviceshgroup h3 {
+    color: var(--color-black);
+    text-align: center;
+  }
   
   .services:hover{
-    background: transparent;
+    /* background: transparent; */
     border-color: var(--color-primary-variant);
     cursor: pointer;
+    transform: scale(1.1);
+    transition: all 0.2s ease-in-out;
   }
   
   .service__head{
@@ -47,7 +58,7 @@
   }
    
   .service__list p{
-    font-size: 0.9rem;
+    font-size: 1.2rem;
   }
   
   /* ===== MEDIA QUERIES TABLET ===== */

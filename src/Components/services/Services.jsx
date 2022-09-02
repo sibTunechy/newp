@@ -8,8 +8,8 @@ from '../../data'
 
 export default function Services() {
   return (
-    <section id='services'>
-     <h5>What I Offer</h5>
+    <section className='serviceshgroup' id='services'>
+     <h3>What I Offer</h3>
      <h2>My Services</h2>
      <div className="container services__container">
       <article className='services'>

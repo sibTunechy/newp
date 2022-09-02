@@ -18,9 +18,9 @@
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem; 
-    border-radius: 12rem 12rem 0 0;
+    border-radius: 2rem 2rem 0 0;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem ;
+    padding: 1.5rem 1.5rem 1.5rem 1.5rem ;
   }
   
   
@@ -32,6 +32,7 @@
     font-weight: 300;
     font-size: 0.9rem;
     margin: 0 3rem;
+    background: var(--color-primary)
   }
   
   /* ===== MEDIA QUERIES TABLET ===== */

@@ -4,7 +4,8 @@
   }
   .client__avatar{
     overflow: hidden;
-    width: 4rem;
+    width: 8rem;
+    height: 8rem;
     aspect-ratio: 1/1;
     border-radius: 50%;
     margin: 0 auto 1rem;
@@ -18,13 +19,27 @@
     user-select: none;
     border-radius: 2rem;
   }
+
+  .testimonialshgroup h2 {
+    color: var(--color-black);
+  }
+
+  .testimonialshgroup h3 {
+    color: var(--color-black);
+    text-align: center;
+  }
   
   .client__review{
-    color: var(--color-light);
+    color: var(--color-black);
     font-weight: 300;
+    font-size: large;
     display: block;
     width: 80%;
     margin: 0.8rem auto 0;
+  }
+
+  .client__name{
+    font-size: large;
   }
   
   .swiper-pagination-clickable .swiper-pagination-bullet-active{

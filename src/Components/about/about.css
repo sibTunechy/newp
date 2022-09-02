@@ -37,15 +37,24 @@
     transition: var(--transition);
  }
  .about__card:hover{
-    background: transparent;
+    /* background-color: var(--color-black); */
     border: var(--color-primary-variant);
     cursor: pointer;
+    transform: scale(1.2);
+    transition: all 0.3s ease-in-out;
  }
  
  .about__icon{
     margin-bottom: 1rem;
     font-size: 1.4rem;
     color: var(--color-primary);
+ }
+ .about h2{
+   color: var(--color-black);
+ }
+ .about h3{
+   color: var(--color-black);
+   text-align: center;
  }
  
  .about__card h5{
@@ -59,7 +68,7 @@
  
  .about__content p{
     margin: 2rem 0 2.6rem;
-    color: var(--color-light);
+    color: var(--color-black);
  }
  
  

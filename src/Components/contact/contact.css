@@ -4,6 +4,13 @@
     grid-template-columns: 30% 58%;
     gap: 10%;
 }
+.contact h3 {
+    color: var(--color-black);
+    text-align: center;
+}
+.contact h2 {
+    color: var(--color-black);
+}
 
 .contact__options{
     display: flex;

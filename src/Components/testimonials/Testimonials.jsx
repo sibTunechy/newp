@@ -11,8 +11,8 @@ import "swiper/css/pagination";
 
 export default function Testimonials() {
   return (
-    <section id='testimonials'>
-      <h5> Client Testimonials </h5>
+    <section className='testimonialshgroup' id='testimonials'>
+      <h3> Client Testimonials </h3>
       <h2> Reviews </h2>
 
       <Swiper className="container testimonials__container"

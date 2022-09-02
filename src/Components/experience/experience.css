@@ -11,11 +11,22 @@
     border: 1px solid transparent;
     transition: var(--transition);
   }
+
+  .experiences h3 {
+    color: var(--color-black);
+    text-align: center;
+  }
+  .experiences h2 {
+    color: var(--color-black);
+    text-align: center;
+  }
   
   .experience__container > div:hover{
-    background: transparent;
+    /* background: transparent; */
     border-color: var(--color-primary-variant);
     cursor: pointer;
+    transform: scale(1.1);
+    transition: all 0.2s ease-in-out;
   }
   
   .experience__container > div h3{

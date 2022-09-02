@@ -7,12 +7,17 @@
     left: 0;
     bottom: 3rem;
     margin: 0 3rem;
+    background: var(--color-bg-variant);
+}
+
+.socials:hover a{
+  background: transparent;
 }
 .socials::after{
     content: " ";
     width: 2px;
     height: 2rem;
-    background: var(--color-primary);
+    /* background: var(--color-black); */
 }
 
 /* ===== MEDIA QUERIES MOBILE ===== */

@@ -7,8 +7,8 @@ import { portfolioData } from '../../data'
 
 export default function Portfolio() {
   return (
-    <section id='portfolio'>
-     <h5>My Recent Work</h5>
+    <section className='portfoliohgroup' id='portfolio'>
+     <h3>My Recent Work</h3>
      <h2> Portfolio </h2>
 
      <div className="container portfolio__container">

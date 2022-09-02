@@ -7,7 +7,7 @@ import Button from '../../tools/Button/Button'
 export default function About() {
   return (
     <section className='about' id='about'>
-      <h5>Get to know Ahmed</h5>
+      <h3>Get to know Ahmed</h3>
       <h2>I write in JavaScript</h2>
 
       <div className="container about__container">

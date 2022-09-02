@@ -7,7 +7,7 @@ import Form from '../../tools/Form/Form'
 export default function Contact() {
   return (
     <section className='contact' id="contact" >
-      <h5>Get in Touch</h5>
+      <h3>Get in Touch</h3>
       <h2>Contact Me</h2>
 
       <div className="container contact__container">
