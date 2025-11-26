@@ -1,5 +1,5 @@
-import ME from './assets/whats.jpeg';
-import MeAbout from "./assets/whats.jpeg";
+import ME from './assets/newnmmmm.png';
+import MeAbout from "./assets/newnmmmm.png";
 import { IoLanguageSharp } from 'react-icons/io5'
 import { BsPatchCheckFill, BsWhatsapp } from 'react-icons/bs'
 import { FaAward, FaChalkboardTeacher } from 'react-icons/fa'
@@ -10,9 +10,9 @@ import { FiTwitter } from 'react-icons/fi'
 
 import IMG1 from './assets/Screenshotemg.png'
 import IMG2 from './assets/Screenshotdeliv.png'
-import IMG3 from './assets/Screenshotport.png'
+import IMG3 from './assets/dabbbb.jpg'
 import IMG4 from './assets/Screenshotartscard.png'
-import IMG5 from './assets/Screenshoradio.png'
+import IMG5 from './assets/mmmmssss.jpg'
 import IMG6 from './assets/Screenshotchat.png'
 
 import AVT1 from './assets/omoebi.jpeg'
@@ -193,9 +193,9 @@ export const portfolioData = [
     {   
         id: 3,
         img: IMG3,
-        text: "Portfolio Website",
-        gitlnk : "https://github.com/sibTunechy/portfolioupd",
-        netlifylnk : "https://updportfolio.netlify.app/"
+        text: "Lotus Bank Project",
+        gitlnk : "https://github.com/sibTunechy/LotusQSV.git",
+        netlifylnk : "https://pendingchangestolotusqsv.netlify.app/"
     },
 
     
@@ -210,9 +210,9 @@ export const portfolioData = [
     {   
         id: 5,
         img: IMG5,
-        text: "Radio Web App",
+        text: "Moshmed Designs Website",
         gitlnk : "https://github.com/sibTunechy/tested",
-        netlifylnk : "https://radiotestapp.netlify.app/"
+        netlifylnk : "https://www.moshmedesigns.com/"
     },
     {   
         id: 6,

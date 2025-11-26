@@ -1,6 +1,6 @@
 import React from 'react'
 import './header.css'
-import CV from '../../assets/AhmedshortCV.pdf'
+import CV from '../../assets/newnww.pdf'
 import { data } from '../../data'
 
 import Button from '../../tools/Button/Button'
