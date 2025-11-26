@@ -1,5 +1,5 @@
-import ME from './assets/newnmmmm.png';
-import MeAbout from "./assets/newnmmmm.png";
+import ME from './assets/relaxd(1).png';
+import MeAbout from "./assets/relaxd(1).png";
 import { IoLanguageSharp } from 'react-icons/io5'
 import { BsPatchCheckFill, BsWhatsapp } from 'react-icons/bs'
 import { FaAward, FaChalkboardTeacher } from 'react-icons/fa'
