@@ -1,5 +1,5 @@
-import ME from './assets/relaxd(1).png';
-import MeAbout from "./assets/relaxd(1).png";
+import ME from './assets/newpocketed.png';
+import MeAbout from "./assets/newpocketed.png";
 import { IoLanguageSharp } from 'react-icons/io5'
 import { BsPatchCheckFill, BsWhatsapp } from 'react-icons/bs'
 import { FaAward, FaChalkboardTeacher } from 'react-icons/fa'
@@ -14,6 +14,9 @@ import IMG3 from './assets/dabbbb.jpg'
 import IMG4 from './assets/Screenshotartscard.png'
 import IMG5 from './assets/mmmmssss.jpg'
 import IMG6 from './assets/Screenshotchat.png'
+import IMG7 from './assets/eterlandscrn.png'
+import IMG8 from './assets/secondlotus.png'
+import IMG9 from './assets/certfrontend.jpeg'
 
 import AVT1 from './assets/omoebi.jpeg'
 import AVT2 from './assets/pointeradam.jpeg'
@@ -27,9 +30,9 @@ export const data = {
 }
 
 export const cardData = [
-    { icon: <IoLanguageSharp />, title: "JavaScript Skill", year: "Over 4+ Years" },
-    { icon: <FaAward />, title: "React Development", year: "3+ Years" },
-    { icon: <GiTeacher />, title: "Node and Express", year: "1+ Years" },
+    { icon: <IoLanguageSharp />, title: "JavaScript Skill", year: "Over 5+ Years" },
+    { icon: <FaAward />, title: "React Development", year: "4+ Years" },
+    { icon: <GiTeacher />, title: "Node and Express", year: "4+ Years" },
   ];
 
 export const expFrontEndData = [
@@ -46,37 +49,37 @@ export const expFrontEndData = [
     {
         icon: <BsPatchCheckFill />, 
         progLang: "Bootstrap", 
-        experience: "Advanced",
+        experience: "Experienced",
     },
     {
         icon: <BsPatchCheckFill />, 
         progLang: "Material-UI", 
-        experience: "Advanced",
+        experience: "Experienced",
     },
     {
         icon: <BsPatchCheckFill />, 
         progLang: "JavaScript", 
-        experience: "Advanced",
+        experience: "Experienced",
     },
     {
         icon: <BsPatchCheckFill />, 
         progLang: "ReactJS", 
-        experience: "Advanced",
+        experience: "Experienced",
     },
     {
         icon: <BsPatchCheckFill/>,
         progLang: "TypeScript",
-        experience: "Advanced",
+        experience: "Experienced",
     },
     {
         icon: <BsPatchCheckFill/>,
         progLang: "Responsiveness",
-        experience: "Advanced",
+        experience: "Experienced",
     },
     {
         icon: <BsPatchCheckFill/>,
         progLang: "Styled-Components",
-        experience: "Advanced",
+        experience: "Experienced",
     },
 ]
 
@@ -85,7 +88,7 @@ export const expBackEndData = [
     {
         icon: <BsPatchCheckFill />, 
         progLang: "MYSQL", 
-        experience: "Basic" 
+        experience: "Experienced" 
     },
     {
         icon: <BsPatchCheckFill />, 
@@ -221,7 +224,29 @@ export const portfolioData = [
         gitlnk : "https://github.com/sibTunechy/chatengineapp",
         netlifylnk : "https://chatappwithchatengine.netlify.app/"
     },
+    {   
+        id: 7,
+        img: IMG7,
+        text: "Eterland School website",
+        gitlnk : "https://github.com/sibTunechy/eterland",
+        netlifylnk : "https://eterland.netlify.app/"
+    },
+    {   
+        id: 8,
+        img: IMG8,
+        text: "Quickserve",
+        gitlnk : "https://github.com/sibTunechy/ciblotu",
+        netlifylnk : "https://lotusbankcib.netlify.app/"
+    },
+        {   
+        id: 9,
+        img: IMG9,
+        text: "Frontend Certification",
+        // gitlnk : "https://github.com/sibTunechy/ciblotu",
+        // netlifylnk : "https://lotusbankcib.netlify.app/"
+    },
 
+    
 ]
 
 export const testimonialData = [
